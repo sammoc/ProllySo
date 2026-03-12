@@ -24,20 +24,22 @@ ProllySo is an independent app. For privacy questions, contact us at:
 
 ### Data You Provide
 
-| Data | Where it goes | Leaves your device? |
-|:---|:---|---|
-| CSV files you import | Parsed in memory; used to compute statistics | **Never** |
-| Numeric values from CSV columns | Held in memory during your session | **Never** |
-| Data profile answers<br>(e.g. "continuous", "symmetric") | Held in memory during your session | **Never** |
-| Sample mean / variance you enter manually | Held in memory during your session | **Never** |
+All data you provide is held in memory during your session and never leaves your device.
+
+| Data | Leaves your device? |
+|:---|---|
+| Imported data files (CSV) | **Never** |
+| Numeric values from CSV columns | **Never** |
+| Sample mean, variance, etc.  | **Never** |
+| Data profile answers<br>(e.g. "continuous", "symmetric") | **Never** |
 
 ### Data ProllySo Does NOT Collect
 
-- We do not collect analytics or usage telemetry.
-- We do not use advertising SDKs or tracking frameworks.
-- We do not create user accounts or profiles.
-- We do not access your contacts, camera, microphone or location.
-- We do not use cookies or any web tracking technology.
+- We do *not* collect analytics or usage telemetry.
+- We do *not* use advertising SDKs or tracking frameworks.
+- We do *not* create user accounts or profiles.
+- We do *not* access your contacts, camera, microphone or location.
+- We do *not* use cookies or any web tracking technology.
 
 ---
 
