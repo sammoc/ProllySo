@@ -53,7 +53,7 @@ CSV files you import are read into memory for the duration of your session and a
 
 ## Data Retention
 
-ProllySo does not persist your data between sessions. When you close the app, all in-memory values (imported CSV data, computed statistics, and profile answers) are discarded automatically. We have no copy of anything you worked with.
+ProllySo does not persist your data between sessions. When you close the app, all in-memory values (imported CSV data, computed statistics, and profile answers) are discarded automatically. We do not save any of your work.
 
 ---
 
