@@ -16,7 +16,7 @@ ProllySo is a statistical distribution recommender for macOS. This policy explai
 
 ProllySo is an independent app. For privacy questions, contact us at:
 
-**Email:** [prollyso@sammoc.com]
+**Email:** [prollyso@sammoc.com](mailto:prollyso@sammoc.com)
 
 ---
 
@@ -85,7 +85,7 @@ If we make material changes to this policy, we will update the **Last updated** 
 
 If you have questions about this privacy policy or the app's data practices, please email:
 
-**[prollyso@sammoc.com]**
+**[prollyso@sammoc.com](mailto:prollyso@sammoc.com)**
 
 ---
 
