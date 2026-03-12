@@ -24,7 +24,7 @@ ProllySo is an independent app. For privacy questions, contact us at:
 
 ### Data You Provide
 
-All data you provide is held in memory during your session and never leaves your device.
+All data you provide is held in memory during the session and never leaves your device.
 
 | Data | Leaves your device? |
 |:---|---|
