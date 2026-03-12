@@ -28,7 +28,7 @@ ProllySo is an independent app. For privacy questions, contact us at:
 |:---|:---|---|
 | CSV files you import | Parsed in memory; used to compute statistics | **Never** |
 | Numeric values from CSV columns | Held in memory during your session | **Never** |
-| Data profile answers (e.g. "continuous", "symmetric") | Held in memory during your session | **Never** |
+| Data profile answers<br>(e.g. "continuous", "symmetric") | Held in memory during your session | **Never** |
 | Sample mean / variance you enter manually | Held in memory during your session | **Never** |
 
 ### Data ProllySo Does NOT Collect
