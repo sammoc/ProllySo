@@ -1,4 +1,4 @@
-# Privacy Policy — ProllySo
+# Privacy Policy
 
 **Last updated: March 12, 2026**
 
@@ -8,7 +8,7 @@
 
 ProllySo is a statistical distribution recommender for macOS. This policy explains what data the app handles, where it stays, and what we never do with it.
 
-**Short version: ProllySo processes your data entirely on your device. Nothing you enter or upload is ever transmitted to us or any third party.**
+**TLDR:** ProllySo processes your data entirely on your device. Nothing you enter or upload is ever transmitted to us or any third party.
 
 ---
 
@@ -25,7 +25,7 @@ ProllySo is an independent app. For privacy questions, contact us at:
 ### Data You Provide
 
 | Data | Where it goes | Leaves your device? |
-|---|---|---|
+|:---|:---|---|
 | CSV files you import | Parsed in memory; used to compute statistics | **Never** |
 | Numeric values from CSV columns | Held in memory during your session | **Never** |
 | Data profile answers (e.g. "continuous", "symmetric") | Held in memory during your session | **Never** |
@@ -36,7 +36,7 @@ ProllySo is an independent app. For privacy questions, contact us at:
 - We do not collect analytics or usage telemetry.
 - We do not use advertising SDKs or tracking frameworks.
 - We do not create user accounts or profiles.
-- We do not access your contacts, camera, microphone, or location.
+- We do not access your contacts, camera, microphone or location.
 - We do not use cookies or any web tracking technology.
 
 ---
